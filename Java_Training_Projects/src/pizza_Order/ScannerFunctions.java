@@ -1,7 +1,6 @@
 package pizza_Order;
 
 import java.util.ArrayList;
-import java.util.Scanner;
 
 public class ScannerFunctions {
 	
