@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class kokeilu {
+public class File_Training {
 
 	public static void main(String[] args) {
 		
