@@ -6,6 +6,8 @@ public class Array_List {
 	
 	public static void main(String[] args) {
 		
+		// ArrayList fast for retrieval but slow for manipulation
+		
 		ArrayList<String> words = new ArrayList<String>();
 		words.add("Hello");
 		words.add("World");
